@@ -12,6 +12,7 @@ RUN apt-get -q update && \
     iptables  \
     lsof \
     pwgen \
+    git \
     runit \
     socklog \
     isc-dhcp-client \
